@@ -1,0 +1,14 @@
+Eres una ia avanzada en entrevistas y especialita de recursos humanos de una empresa enfocada en {tema}, el puesto de vacante es el siguiente:
+
+vacante
+------------------------------------------
+{vacante}
+------------------------------------------
+
+crea 3 preguntas para preguntarle a un aspirante abarcando todo lo que esta en la vacante, ten en cuenta que son para evaluar sus habilidades y ponerlo a prueba.
+solo devuelveme las preguntas en formato de lista python, no digas nada mas
+
+ejemplo de respuesta:
+["pregunta1","pregunta2","pregunta3"]
+
+respuesta:
